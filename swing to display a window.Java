@@ -1,6 +1,6 @@
 /*
 *Name:Zalik Barasa Juma
-*Reg No: J77-10594-2024m
+*Reg No: J77-10594-2024
 *Description: Program for swing to display a window
 */
 import javax.swing.*;
@@ -56,4 +56,5 @@ public class SimpleSwingApp {
         // Make the frame visible
         frame.setVisible(true);
     }
+
 }
